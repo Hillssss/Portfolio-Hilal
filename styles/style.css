@@ -179,15 +179,20 @@ nav ul li a{
     width: 70%;
 }
 
+.hero-left p {
+    font-size: 0.7rem;
+    margin-bottom: 1%;
+}
+
 .hero-name {
-    font-size: 3rem;
+    font-size: 2.3rem;
     font-weight: 700;
-    margin: 0.5rem 0 1rem;
+    margin: 0.5rem 0 0.3rem;
     overflow: hidden;
     white-space: nowrap;
     border-right: 10px;
     padding-right: 10px;
-    animation: typing 3s steps(20) infinite alternate, blink 0.9s infinite;
+    animation: typing 3s steps(25) infinite alternate, blink 1s infinite;
 }
 @keyframes typing{
     0% {
