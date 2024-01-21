@@ -96,12 +96,12 @@
     }
 
     .hero-name {
-        font-size: 2.3rem;
+        font-size: 1.8rem;
         margin-bottom: 0.5rem;
     }
     /*Skills Section */
     .skills-grid {
-        gap: 1rem;
+        gap: 0.9rem;
     }
 
     /*Footer Section*/
@@ -119,5 +119,20 @@
     .pre-title {
         font-size: 0.7rem;
     }
+
+    .skills-right p {
+        text-align: left;
+        font-size: 0.8rem;
+    }
+
+    .btn-submit {
+        width: 95%;
+    
+}
+
+.contact-form input, .contact-form textarea {
+    width: 95%;
+}
+
 }
     
